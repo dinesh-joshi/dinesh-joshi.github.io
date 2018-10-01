@@ -1,2 +1,3 @@
 # dinesh-joshi.github.io
-My personal webpage
+This is my personal hostage static webpage portfolio built using HTML and CSS. Please visit and feel free to contribute :)
+
